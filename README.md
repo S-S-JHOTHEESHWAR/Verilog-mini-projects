@@ -1,7 +1,7 @@
 # Verilog-mini-projects
-This is a repository for all the mini projects that i did for learning verilog
+This is a repository for the mini projects that i did for learning verilog
 
-tools used : xilinx vivado
+Tools used : xilinx vivado
 
 The repo includes :
       Design Files
